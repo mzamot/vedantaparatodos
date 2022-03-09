@@ -1,3 +1,9 @@
+---
+title: "Inicio"
+date: 2022-01-24T17:36:06-05:00
+draft: false
+---
+
 # Vedanta Para Todos
 
 Este es un sitio web dedicado a la Advaita Vedanta, bajo la línea de Sri Ramakrishna-Vivekananda.
@@ -6,4 +12,4 @@ Este es un sitio web dedicado a la Advaita Vedanta, bajo la línea de Sri Ramakr
 ## Objetivos
 
 - Diseminación de las enseñanzas del Advaita Vedanta según fueron enseñados por Sri Ramakrishna Paramahansa y Swami Vivekananda.
-- Traducción y publicación de todos los escritos de Swami Vivekananda al español.
+- Traducción y publicación de todos los escritos de Swami Vivekananda al español de manera gratuita.
