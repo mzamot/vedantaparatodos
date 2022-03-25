@@ -29,7 +29,6 @@ markup:
     renderer:
       unsafe: true
       hardWraps: false
-      unsafe: false
       xhtml: false
 
 # Multi-lingual mode config
