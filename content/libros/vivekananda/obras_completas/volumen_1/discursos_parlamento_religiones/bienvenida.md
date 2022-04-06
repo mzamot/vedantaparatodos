@@ -1,6 +1,6 @@
 ---
 title: "Respuesta a la Bienvenida"
-date: 2022-03-09T24:18:47-05:00
+date: 2022-03-09T20:18:47-05:00
 weight: 10
 draft: false
 ---
