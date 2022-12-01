@@ -27,7 +27,7 @@ Este es un sitio web dedicado a la Advaita Vedanta, bajo la línea de Sri Ramakr
 
 <img class="special-img-class" src="/photos/ramakrishna.jpg" alt="Sri Ramakrishna" style="height: 300px; width: auto;"/> 
 
-"Así como los gatitos se resignan a la voluntad de su madre, del mismo modo un devoto debe resignarse a la voluntad de la Divina Madre. Los gatitos no saben sino gritar “miau, miau”. La madre puede ponerlos sobre el desnudo piso de la cocina o en la blanda cama del amo de casa, nada importa, los gatitos siempre están contentos. De la misma manera el verdadero devoto debería invocar siempre a la Divina Madre y contentarse con lo que Ella quiera hacer con él."
+"Dios está en todos los hombres, pero no todos los hombres están en Dios; es por eso que sufrimos."
 
 <--->
 <--->
@@ -39,3 +39,5 @@ Este es un sitio web dedicado a la Advaita Vedanta, bajo la línea de Sri Ramakr
 
 {{< /columns >}}
 
+
+Si deseas participar o colaborar en el trabajo de traducción, por favor ponerse en contacto con el administrador del sitio en <a rel="me" href="https://opencloud.io/@michael">Mastodon</a>.
