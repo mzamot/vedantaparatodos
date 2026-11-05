@@ -257,11 +257,9 @@
     link.href = root + latest.href + "?continuar=1";
     if (!link.parentNode) home.appendChild(link);
     var placeNode = home.querySelector(".continue-place");
-    var titleNode = home.querySelector(".continue-title");
     var progressNode = home.querySelector(".continue-progress");
-    if (placeNode || titleNode) {
-      if (placeNode) placeNode.textContent = latest.place || "";
-      if (titleNode) titleNode.textContent = (latest.title || "Capítulo").split("|")[0].trim();
+    if (placeNode) {
+      placeNode.textContent = latest.place || "";
       if (progressNode && typeof latest.progress === "number") {
         progressNode.textContent = latest.progress + "% del capítulo";
       }
